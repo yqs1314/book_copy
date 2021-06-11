@@ -22,7 +22,7 @@ DROP TABLE IF EXISTS `t_academy`;
 CREATE TABLE `t_academy` (
   `Academy_id` varchar(10) NOT NULL,
   `Academy_name` varchar(30) NOT NULL,
-  PRIMARY KEY (`Academy_id`)
+  PRIMARY KEY (`Academy_id`)/*id设置为主键*/
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 -- ----------------------------
