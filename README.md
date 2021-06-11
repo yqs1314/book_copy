@@ -1,5 +1,5 @@
 # books-management-system
-使用MySQL+ExpressJS+AngularJS+NodeJS尝试开发的图书管理系统，开发前端后台模块，后台用ExpressJS和NodeJS搭建服务器，前端用AngularJS，样式用的Bootstrap。自己封装了数据库连接池的接口，利用Java项目MVC的思想组织后台，用Ajax传递前后台数据;极大地计划了开发人员的工作效率。
+使用MySQL+ExpressJS+AngularJS+NodeJS尝试开发的图书管理系统，开发前端后台模块，后台用ExpressJS和NodeJS搭建服务器，前端用AngularJS，样式用的Bootstrap。自己封装了数据库连接池的接口，利用Java项目MVC的思想组织后台，用Ajax传递前后台数据;极大地简化了开发人员的工作效率。
 
 ![登陆界面截图](picture/login.png)
 ![后台管理界面截图](picture/admin.png)
