@@ -4,7 +4,7 @@ Navicat MySQL Data Transfer
 Source Server         : dbConnection
 Source Server Version : 50704
 Source Host           : localhost:3306
-Source Database       : db_book
+Source Database       : db_book  //数据库的名字
 
 Target Server Type    : MYSQL
 Target Server Version : 50704
